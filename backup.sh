@@ -3,7 +3,7 @@
 ## The files to be backed up should be manually added to the array below. ##
 files=("$HOME/.bashrc" "$HOME/.config" "$HOME/.vimrc" "./backup.sh" "./restore.sh")
 
-## The required packages should also be manually added. ##
+## The packages should also be manually added. ##
 packages=('fd-find' 'vim' 'mpv' 'rofi' 'fzf')
 
 
